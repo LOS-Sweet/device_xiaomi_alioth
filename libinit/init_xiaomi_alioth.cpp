@@ -41,7 +41,7 @@ static const variant_info_t alioth_info = {
     .hwc_value = "",
     .sku_value = "",
 
-    .mod_device = "alioth",
+    .mod_device = "alioth_global",
     .brand = "Redmi",
     .device = "alioth",
     .marketname = "Redmi K40",
